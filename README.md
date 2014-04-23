@@ -20,7 +20,7 @@ If IE8 support is needed then add the following:
 <blockquote>If you want rounded corners for the scrollbar in IE8 then put the file “PIE.htc” in the same folder as your page.</blockquote>
 <li>Invoke xScroller using the following syntax:</li>
 <pre>$(&quot;selectorString&quot;).xScroller({
-showButtons: false,
+	showButtons: false,
 	showBesideContent: false,
 	updateOnResize: false,
 	updateOnContentResize: false
